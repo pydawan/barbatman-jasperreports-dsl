@@ -1,7 +1,7 @@
 barbatman-jasperreports-dsl
 ===========================
 
-* Domain Specific Language simplify the way you populate and invoke a JRBeanCollectionDataSource report. 
+* Domain Specific Language to simplify the way you populate and invoke a JRBeanCollectionDataSource report. 
 
 It´s really simple to use. For sample, to generate an async report:
 
